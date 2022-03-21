@@ -44,7 +44,7 @@ img{
 }
 /* hero section */
 #hero{
-    background-image: url(./img/cross_over.JPG);
+    background-image: url("img/cross_over.jpeg");
     background-size: cover;
     background-position: 30% 30%;
     /* background: no-repeat; */
@@ -182,7 +182,7 @@ padding: 100px 0;
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(./img/photo-1474224017046-182ece80b263.JPG);
+    background-image: url("/img/photo-1474224017046-182ece80b263.jpg");
     background-size: cover;
     margin: 10px 5%;
     position: relative;
