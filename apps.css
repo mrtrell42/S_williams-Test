@@ -184,6 +184,7 @@ p {
 	margin-top: 50px;
 }
 #services .service-item {
+	min-height: 500px;
 	flex-basis: 80%;
 	display: flex;
 	align-items: flex-start;
